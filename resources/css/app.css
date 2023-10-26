@@ -1,0 +1,54 @@
+/* Add this to your stylesheet (e.g., app.css) */
+.colorful-card {
+    background-color: #FFC0CB; /* A light pink background */
+    border: 2px solid #FF1493; /* Deep pink border */
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #888888; /* Add a subtle shadow */
+}
+
+.colorful-header {
+    background-color: #FF69B4; /* Pink background for the header */
+    color: #FFFFFF; /* White text color */
+    text-align: center;
+    font-size: 24px;
+    padding: 10px;
+}
+
+.colorful-body {
+    background-color: #F0E68C; /* Khaki background for the body */
+    padding: 20px;
+}
+
+.colorful-heading {
+    color: #FF1493; /* Deep pink text color */
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.colorful-label {
+    color: #FF69B4; /* Pink text color for labels */
+}
+
+.colorful-input {
+    border: 2px solid #FF1493; /* Deep pink border for input fields */
+}
+
+.colorful-textarea {
+    border: 2px solid #FF1493; /* Deep pink border for textareas */
+}
+
+.colorful-select {
+    border: 2px solid #FF1493; /* Deep pink border for select elements */
+}
+
+.colorful-button {
+    background-color: #FF69B4; /* Pink background for the button */
+    color: #FFFFFF; /* White text color for the button */
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* You can adjust the colors and styles to your liking */
